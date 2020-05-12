@@ -1,2 +1,2 @@
 # proyectos
-Esta es la primera pagina de proyectos
+Esta es mi primera pagina de proyectos
